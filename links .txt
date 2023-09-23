@@ -1,0 +1,39 @@
+google font link
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Roboto&display=swap" rel="stylesheet">
+
+font-family: 'Roboto', sans-serif;
+
+font awesome link
+<script src="https://kit.fontawesome.com/c3e7ba8d63.js" crossorigin="anonymous"></script>
+
+
+globe font icon
+<i class="fa-solid fa-globe"></i>
+
+angle down icon
+<i class="fa-solid fa-angle-down"></i>
+
+Linked In icon
+<i class="fa-brands fa-linkedin"></i>
+
+instagram icon
+<i class="fa-brands fa-square-instagram"></i>
+
+twitter icon
+<i class="fa-brands fa-square-twitter"></i>
+
+youtube icon
+<i class="fa-brands fa-square-youtube"></i>
+
+facebook icon
+<i class="fa-brands fa-facebook"></i>
+
+
+
+
+
+
+
+
